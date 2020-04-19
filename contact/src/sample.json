@@ -1,0 +1,423 @@
+{
+    "Project Manager":[
+        {
+            "email":"Sunil.Sharma@microsoft.com",
+            "displayname":"Sunil Sharma",
+            "role":"PROJECT MGR",
+            "department":"BEO-Method & Tools-IGD-India-1649",
+            "location":"HYD -CAMPUS I/Mobile",
+            "phoneNo":"+91 (40) 66930584",
+            "initials":"SS",
+            "imageSrc":"https://microsoft.sharepoint.com/sites/Campus/_layouts/15/userphoto.aspx?accountname=Sunil.Sharma@microsoft.com",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project QWER",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project AAVC",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project OPPSA",
+                    "projectLink" : "www.google.com"
+                }
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CROPS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project TARS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE III",
+                "projectLink" : "www.google.com"
+            }
+    ]
+        },
+        {
+            "email":"v-prjaga@microsoft.com",
+            "displayname":"Prabhakar Jagadeesan (LARSEN & TOUBRO INFOTECH LIMIT)",
+            "role":"PROJECT MGR",
+            "department":"AGE",
+            "location":"LTI - Chennai DLF I-Block 4",
+            "phoneNo":"+9584548156",
+            "initials":"PJ",
+            "imageSrc":"",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project QWER",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project AAVC",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project OPPSA",
+                    "projectLink" : "www.google.com"
+                }
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CROPS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project TARS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE III",
+                "projectLink" : "www.google.com"
+            }
+    ]
+        },
+        {
+            "email":"Aniruddha.Bapat@microsoft.com",
+            "displayname":"Aniruddha Bapat",
+            "role":"ASSC ARCHITECT APPLT",
+            "department":"BEO-Method & Tools-IGD-India-1649",
+            "location":"HYD -CAMPUS I/Mobile",
+            "phoneNo":"+91 (40) 66933447",
+            "initials":"AB",
+            "imageSrc":"https://microsoft.sharepoint.com/sites/Campus/_layouts/15/userphoto.aspx?accountname=Aniruddha.Bapat@microsoft.com",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project QWER",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project AAVC",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project OPPSA",
+                    "projectLink" : "www.google.com"
+                }
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CROPS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project TARS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE III",
+                "projectLink" : "www.google.com"
+            }
+    ]
+        },     
+        {
+            "email":"v-mutk@microsoft.com",
+            "displayname":"Muthukumar K (Larsen & Toubro Infotech Ltd)",
+            "role":"SOFTWARE ENGINEER",
+            "department":"BEO Method & Tools Subcon IGD 1649",
+            "location":"LTI - Chennai DLF I-Block 4",
+            "phoneNo":"+9584548156",
+            "initials":"MK",
+            "imageSrc":"",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project QWER",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project AAVC",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project OPPSA",
+                    "projectLink" : "www.google.com"
+                }
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CROPS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project TARS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE III",
+                "projectLink" : "www.google.com"
+            }
+    ]
+        },
+        {
+            "email":"v-miprad@microsoft.com",
+            "displayname":"Pradeep Kumar Mishra (LARSEN & TOUBRO INFOTECH LIMIT)",
+            "role":"PROJECT LEAD",
+            "department":"BEO Method & Tools Subcon IGD 1649",
+            "location":"LTI - Mumbai DLF I-Block 4",
+            "phoneNo":"+91845582558",
+            "initials":"PM",
+            "imageSrc":"https://microsoft.sharepoint.com/sites/Campus/_layouts/15/userphoto.aspx?accountname=v-miprad@microsoft.com",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project QWER",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project AAVC",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project OPPSA",
+                    "projectLink" : "www.google.com"
+                }
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CROPS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project TARS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project CASE III",
+                "projectLink" : "www.google.com"
+            }
+    ]
+        }
+    ],
+    "Architect":[
+        {
+            "email":"Aniruddha.Bapat@microsoft.com",
+            "displayname":"Aniruddha Bapat",
+            "role":"ASSC ARCHITECT APPLT",
+            "department":"BEO-Method & Tools-IGD-India-1649",
+            "location":"HYD -CAMPUS I/Mobile",
+            "phoneNo":"+91 (40) 66933447",
+            "initials":"AB",
+            "imageSrc":"https://microsoft.sharepoint.com/sites/Campus/_layouts/15/userphoto.aspx?accountname=Aniruddha.Bapat@microsoft.com",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                }
+            ],
+            "opportunityHistory":[
+                {
+                    "projectTitle" : "Project ZURO",
+                    "projectLink" : "www.google.com"
+                }
+            ]
+        },
+        {
+            "email":"v-vatt@microsoft.com",
+            "displayname":"Vasanth T T (LARSEN & TOUBRO INFOTECH LIMIT)",
+            "role":"Architect",
+            "department":"DC",
+            "location":"LTI - Chennai DLF I-Block 4",
+            "phoneNo":"+9584548156",
+            "initials":"VT",
+            "imageSrc":"",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                }
+            ],
+            "opportunityHistory":[
+                {
+                    "projectTitle" : "Project ZURO",
+                    "projectLink" : "www.google.com"
+                }
+            ]
+        },
+        {
+            "email":"v-mutk@microsoft.com",
+            "displayname":"Muthukumar K (Larsen & Toubro Infotech Ltd)",
+            "role":"Software Engineer",
+            "department":"BEO Method & Tools Subcon IGD 1649",
+            "location":"LTI - Chennai DLF I-Block 4",
+            "phoneNo":"+9584548156",
+            "initials":"AK",
+            "imageSrc":"",
+            "projectHistory":[
+                {
+                    "projectTitle" : "Project AMS",
+                    "projectLink" : "www.google.com"
+                },
+                {
+                    "projectTitle" : "Project COEA",
+                    "projectLink" : "www.google.com"
+                }
+            ],
+            "opportunityHistory":[
+                {
+                    "projectTitle" : "Project ZURO",
+                    "projectLink" : "www.google.com"
+                }
+            ]
+        }
+    ],
+    "Pursuit Lead":[
+        {
+        "email":"v-miprad@microsoft.com",
+        "displayname":"Pradeep Kumar Mishra (LARSEN & TOUBRO INFOTECH LIMIT)",
+        "role":"Project Lead",
+        "department":"BEO Method & Tools Subcon IGD 1649",
+        "location":"LTI - Mumbai DLF I-Block 4",
+        "phoneNo":"+91845582558",
+        "initials":"PM",
+        "imageSrc":"https://microsoft.sharepoint.com/sites/Campus/_layouts/15/userphoto.aspx?accountname=v-miprad@microsoft.com",
+        "projectHistory":[
+            {
+                "projectTitle" : "Project AMS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project COEA",
+                "projectLink" : "www.google.com"
+            }
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            }
+        ]
+    },
+    {
+        "email":"v-arukum@microsoft.com",
+        "displayname":"Arun Rajiv Kumar Kumaran (LARSEN & TOUBRO INFOTECH LIMIT)",
+        "role":"Project Lead",
+        "department":"BEO Method & Tools Subcon IGD 1649",
+        "location":"LTI - Chennai DLF I-Block 4",
+        "phoneNo":"+9584548156",
+        "initials":"AK",
+        "imageSrc":"",
+        "projectHistory":[
+         
+        ],
+        "opportunityHistory":[
+            {
+                "projectTitle" : "Project ZURO",
+                "projectLink" : "www.google.com"
+            }
+        ]
+    },
+    {
+        "email":"v-mubal@microsoft.com",
+        "displayname":"Muthukrishnan Balasubramaniyan (LARSEN & TOUBRO INFOTECH LIMIT)",
+        "role":"UI Lead",
+        "department":"BEO Method & Tools Subcon IGD 1649",
+        "location":"LTI - Chennai DLF I-Block 4",
+        "phoneNo":"917845123689",
+        "initials":"MB",
+        "imageSrc":"",
+        "projectHistory":[
+            {
+                "projectTitle" : "Project AMS",
+                "projectLink" : "www.google.com"
+            },
+            {
+                "projectTitle" : "Project COEA",
+                "projectLink" : "www.google.com"
+            }
+        ],
+        "opportunityHistory":[
+           
+        ]
+    }]
+}

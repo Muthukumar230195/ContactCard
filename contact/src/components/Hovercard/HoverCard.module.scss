@@ -1,0 +1,198 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+.hoverCardContainer {
+  
+  background-color: #fff;
+
+  box-shadow: 3px 2px 10px #ccc;
+  width: 285px;
+  z-index: 999;
+  margin: 0px 0 0 0;
+  height: 201px;
+
+  .contactCardContainer {
+    padding: 15px 22px 15px 22px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .imageContainer {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      width: 60px;
+    }
+    .cardDetails {
+      width: 200px;
+      span {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      p {
+        margin: 5px 0 0 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+
+        &.userDesignation {
+          font-size: 14px;
+          color: #000000;
+          font-weight: 400;
+        }
+        &.userName {
+          font-size: 18px;
+          color: #000000;
+          line-height: 21px;
+          margin: 0 !important;
+          font-weight: 600;
+        }
+      }
+    }
+    .presenceInfo {
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      background-color: #EDD6CE;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      line-height: 12px;
+      font-size: 16px;
+      text-transform: uppercase;
+      color: #000000;
+      font-weight: 600;
+      img {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        background-color: #ccc;
+        position: relative;
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+      }
+      span{
+        width: 12px;
+        height: 12px;
+        position: absolute;
+        border-radius: 50%;
+        right: 0px;
+        top: 26px;
+        border: 1px solid #fff;
+        display: flex;
+        background: #ffffff;
+        .active {
+          color:#ccc;
+          font-size:11px;               
+            justify-content: center;
+      
+            align-items: center;
+            display: flex;
+           
+          
+          }
+      }
+    }
+  }
+  .iconContainer{
+
+    a{
+      color: #606060 ;
+      font-size: 16px;
+    }
+    
+    padding: 0px 22px 5px 22px;
+    i{
+     margin-right: 20px;
+     &[title="Chat"]{
+       
+       
+    font-size: 17px;
+    margin-top: 3px;
+     }
+     &[title="Email"]{
+      font-size: 20px;
+    }
+    &[title="Audio call"]{
+      font-size: 15px;
+      vertical-align: top;
+      line-height: 19px;
+    }
+    
+
+  
+    }
+  }
+  .hoverCardDetails {
+    width: 215px;
+    padding: 0px 22px 15px 22px;
+    height: 95px;
+    p {
+      margin: 0 0 3px 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 12px;
+      color:#4b4b4b;
+
+    }
+  }
+}
+
+
+@media screen and (-ms-high-contrast: active) {
+
+  .presenceInfo{
+    border: 1px solid;
+    font-size: 14px;
+    span{
+      border:none;
+    }
+  }
+}
+
+@media screen and (-ms-high-contrast: black-on-white) {
+
+  .presenceInfo{
+    border: 1px solid;
+    font-size: 14px;
+    span{
+      border:none;
+    }
+  }
+}
+@media screen and (-ms-high-contrast: white-on-black) {
+
+  .presenceInfo{
+    border: 1px solid;
+    font-size: 14px;
+    span{
+      border:none;
+    }
+  }
+}
+
+@media screen and (max-width:549px) and (min-width: 320px) {
+
+    .hoverCardContainer{
+      width:260px;
+    }
+  
+ 
+}

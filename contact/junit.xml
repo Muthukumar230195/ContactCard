@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="17" failures="0" time="17.159">
+  <testsuite name="Load Component" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:11" time="9.277" tests="3">
+    <testcase classname="Load Component DropdownComponent renders without crashing" name="Load Component DropdownComponent renders without crashing" time="0.04">
+    </testcase>
+    <testcase classname="Load Component To Check DropdownComponent Button Name Starts with Role" name="Load Component To Check DropdownComponent Button Name Starts with Role" time="0.015">
+    </testcase>
+    <testcase classname="Load Component To Check first CheckBox Name is Architect or not" name="Load Component To Check first CheckBox Name is Architect or not" time="0.106">
+    </testcase>
+  </testsuite>
+  <testsuite name="GeoComponent" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:11" time="9.317" tests="4">
+    <testcase classname="GeoComponent GeoComponent renders without crashing" name="GeoComponent GeoComponent renders without crashing" time="0.038">
+    </testcase>
+    <testcase classname="GeoComponent To Check GeoComponent Button Name Starts with Geo" name="GeoComponent To Check GeoComponent Button Name Starts with Geo" time="0.014">
+    </testcase>
+    <testcase classname="GeoComponent To Check if Geo button toggles the dropdown" name="GeoComponent To Check if Geo button toggles the dropdown" time="0.006">
+    </testcase>
+    <testcase classname="GeoComponent To Check if a region gets toggled on click" name="GeoComponent To Check if a region gets toggled on click" time="0.116">
+    </testcase>
+  </testsuite>
+  <testsuite name="Load Component" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:20" time="2.992" tests="1">
+    <testcase classname="Load Component ProjectLinkPopUp renders without crashing" name="Load Component ProjectLinkPopUp renders without crashing" time="0.023">
+    </testcase>
+  </testsuite>
+  <testsuite name="Load Component" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:20" time="3.077" tests="1">
+    <testcase classname="Load Component NavBarComponent renders without crashing" name="Load Component NavBarComponent renders without crashing" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="Load Component" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:23" time="1.297" tests="1">
+    <testcase classname="Load Component ContactCard renders without crashing" name="Load Component ContactCard renders without crashing" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="RelevanceComponent" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:23" time="1.61" tests="4">
+    <testcase classname="RelevanceComponent Relevance dropdown renders without crashing" name="RelevanceComponent Relevance dropdown renders without crashing" time="0.012">
+    </testcase>
+    <testcase classname="RelevanceComponent To Check if Relevance button toggles the dropdown" name="RelevanceComponent To Check if Relevance button toggles the dropdown" time="0.008">
+    </testcase>
+    <testcase classname="RelevanceComponent To Check if Relevance dropdown has Name option" name="RelevanceComponent To Check if Relevance dropdown has Name option" time="0.003">
+    </testcase>
+    <testcase classname="RelevanceComponent To Check if Relevance dropdown has Geo option" name="RelevanceComponent To Check if Relevance dropdown has Geo option" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="Load Component" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:11" time="14.342" tests="2">
+    <testcase classname="Load Component ProjectContext renders without crashing" name="Load Component ProjectContext renders without crashing" time="0.045">
+    </testcase>
+    <testcase classname="Load Component To Check ProjectContext icon" name="Load Component To Check ProjectContext icon" time="0.049">
+    </testcase>
+  </testsuite>
+  <testsuite name="Load Component" errors="0" failures="0" skipped="0" timestamp="2020-03-09T09:06:25" time="1.16" tests="1">
+    <testcase classname="Load Component HoverCard renders without crashing" name="Load Component HoverCard renders without crashing" time="0.006">
+    </testcase>
+  </testsuite>
+</testsuites>

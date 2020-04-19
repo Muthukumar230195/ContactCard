@@ -1,0 +1,15 @@
+{
+    "Industry": ["Construction", "Education", "Financial Services", "Government", "Source Exploration", "Travel", "Retail", "Information Technology", "Food", "Beverage", "Tourism", "Defense"],
+    "Geo": {
+        "Asia Pacific Area": ["Bhutan", "Bangladesh", "Korea"],
+        "Australia Area": ["Austrlia", "New Zealand"],
+        "Europe Area": ["Germany", "Switzerland", "France", "Italy", "Netherlands", "United Kingdom"],
+        "India Area": ["India", "Bangladesh", "Pakistan", "China"]
+    },
+    "Role": ["Architect", "Lead", "Financial Advisor", "Manager", "Source Exploration", "Travel", "Retail", "Information Technology", "Food", "Beverage", "Tourism", "Defense"],
+    "Domain":["Data and AI","Apps"],
+    "PrimaryProduct":["Sharepoint"],
+    "Product":["Azure","Sharepoint","Windows Server"],
+    "PrjContextGeo":["Germany", "Switzerland", "France", "Italy", "Netherlands", "United Kingdom"],
+    "BusinessScenarios":["ACP_ADSecurityRiskMitigation", "ACP_CRM Online", "ACP_Cloud_DR"]
+}

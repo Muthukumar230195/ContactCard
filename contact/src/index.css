@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #fff;
+  font-family:"Segoe UI Local", "Segoe UI Web (West European)", -apple-system, system-ui, BlinkMacSystemFont, Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+button,input{
+  font-family:"Segoe UI Local", "Segoe UI Web (West European)", -apple-system, system-ui, BlinkMacSystemFont, Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+body:not(*:root) {
+  font-family: 'Segoe UI Web (West European)' !important;
+ 
+}
